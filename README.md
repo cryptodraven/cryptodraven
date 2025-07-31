@@ -2,18 +2,9 @@
 
 ### ~ Welcome aboard!
 
- <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=002AFF&size=25&center=true&vCenter=true&lines=⛓️+Full+Stack+Blockchain+Developer;Web3+Security+Researcher;" alt="Currently security researcher">
-
-
-
 👨🏼‍💻 Building   
 🧠 Learning <br/>
 💜 Loving Stacks [React][react] , [Nodejs][nodejs] , [Typescript][typescript] , [Solidity ][Solidity] , [Ethers][ethers] , [Solana][solana] and [Tailwind][tailwind]  
-
-🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
-📺 [youtube][youtube] **|** 
-👔 [linkedin][linkedin]
 
 <div style="text-align: left , color:red ">
 </div>
@@ -24,7 +15,6 @@
  </div>
     
 
-[banner]: https://github.com/KashifCh-eth/KashifCh-eth/blob/4cbded1f5a078f9e92b9749f43a7fe7a6fadf594/KashifCh.gif
 [Solidity]: https://soliditylang.org/
 [nodejs]: https://nodejs.org/en
 [solana]:https://solana.com/
@@ -33,16 +23,14 @@
 [ethers]: https://docs.ethers.org/v5/
 [tailwind]: https://tailwindcss.com
 [website]:  #
-[twitter]: https://twitter.com/k_ashi0
-[youtube]: https://www.youtube.com/channel/UCTV-ublGmEHqhX3n3RLiRJw
-[linkedin]: https://www.linkedin.com/in/kashif-choudary/
+
 
 ``` solidity
     // SPDX-License-Identifier: MIT
     pragma solidity ^0.8.24;
     
     contract Profile {
-        string public name = "KashifCh-eth";
+        string public name = "Cryptodraven";
         string public pronouns = "He | Him";
         string public currentFocus = "Web3 / dApps";
     
